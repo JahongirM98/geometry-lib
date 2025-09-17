@@ -1,5 +1,13 @@
+# venv / кэш
 .venv/
 __pycache__/
-.idea/
 .pytest_cache/
 *.pyc
+
+# IDE
+.idea/
+
+# build artifacts
+*.egg-info/
+dist/
+build/
